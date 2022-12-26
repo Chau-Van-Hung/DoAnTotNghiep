@@ -1,0 +1,14 @@
+Tài khoản người tìm việc: email - nguyenvanb@gmail.com, pass - Nguyenvanb1
+Tài khoản người tuyển dụng: email - tuyendung@gmail.com, pass - Nguyenvanb1
+Tài khoản admin - quản trị: link /admin/accountmanage/login, email - admin@gmail.com, pass - Nguyenvanb1
+TÀI KHOẢN NHÂN VIÊN:
+1. vanhungnv pass Vanhung2007
+2. thanhtuannv pass ---------
+3. hungchaunv
+4. tiensynv
+5. kimanhnv
+TÀI KHOẢN UV
+1. vanhunguv pass ---------
+2. hungchauuv
+3. tiensyuv
+4. kimanhuv
